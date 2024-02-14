@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MeLi</string>
+    <string name="content_description">content_description</string>
+    <!-- Busqueda -->
+    <string name="buscar_en_mercado_libre">Buscar en Mercado Libre</string>
+    <string name="buscar">Buscar</string>
+
+    <!-- Resultados -->
+    <string name="text_price"><![CDATA[$%s]]></string>
+    <string name="text_acepta_mercado_pago">Acepta MercadoPago</string>
+    <string name="text_no_acepta_mercado_pago">No acepta MercadoPago</string>
+
+    <!-- Detalles -->
+    <string name="text_cantidad"><![CDATA[Cantidad disponible: %s]]></string>
+    <string name="text_envio_gratis">¡Envío gratis!</string>
+    <string name="text_vendedor"><![CDATA[Vendedor: <b>%s</b>]]></string>
+
+    <!-- Mensajes -->
+    <string name="text_campo_vacio">Campo de búsqueda vacío</string>
+    <string name="text_producto_no_encontrado">No encontramos el producto que buscas</string>
+    <string name="text_no_conectado">No tenemos acceso a la red, verifica tu conexión</string>
+</resources>
